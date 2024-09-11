@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year graduate student from Northwest University. My research interest includes software testing. 
+I'm a first-year PhD student from Northwest University. My research interest includes software testing. 
 
 **Publications**
 
@@ -16,3 +16,19 @@ I am a third-year graduate student from Northwest University. My research intere
 2. **Tianmin Hu**, Guixin Ye, Zhanyong Tang, Shin Hwei Tan, Huanting Wang, Meng Li, and Zheng Wang. 2024. [UPBEAT: Test Input Checks of Q# Quantum Libraries](../files/issta24main-p424-p-45a796a548-80293-final.pdf). In Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA ’24), September 16–20, 2024, Vienna, Austria. ACM, New York, NY, USA, 13 pages. 
 
 3. Zhenye Fan, Guixin Ye, **Tianmin Hu** and Zhanyong Tang. 2024. History-driven Compiler Fuzzing via Assembling and Scheduling Bug-triggering Code Segments. The 35th IEEE International Symposium on Software Reliability Engineering (ISSRE 2024), October 28-3l, 2024, Tsukuba, Japan. 
+
+**Projects**
+
+1. Research on deep learning based metamorphic testing techniques for quantum software stacks. Sponsored by Northwest University. Project Facilitator. ([Related information](https://yjs.nwu.edu.cn/info/1017/2847.htm))
+
+2. Research on JS engine automated testing based on highly guided test case generation. Sponsored by CCF-Tencent Open Fund. Project Participant. ([Related information](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/tx/2022-02-28/756316.shtml))
+
+**Services**
+
++ Subreviewer for [MSN2024](https://ieee-msn.org/2024/index.php).
+
+**Biography**
+
++ September 2021 - up to now, Successive postgraduate and doctoral programs of study, Northwest University.
+
++ September 2017 - June 2021, Undergraduate, Northwest University.
