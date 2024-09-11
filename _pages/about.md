@@ -19,9 +19,9 @@ I'm a first-year PhD student from Northwest University. My research interest inc
 
 **Projects**
 
-1. Research on deep learning based metamorphic testing techniques for quantum software stacks. Sponsored by Northwest University. Project Facilitator. ([Related information](https://yjs.nwu.edu.cn/info/1017/2847.htm))
+1. Research on deep learning based metamorphic testing techniques for quantum software stacks. Sponsored by Northwest University. Project leader. ([Related information](https://yjs.nwu.edu.cn/info/1017/2847.htm))
 
-2. Research on JS engine automated testing based on highly guided test case generation. Sponsored by CCF-Tencent Open Fund. Project Participant. ([Related information](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/tx/2022-02-28/756316.shtml))
+2. Research on JS engine automated testing based on highly guided test case generation. Sponsored by CCF-Tencent Open Fund. Project participant. ([Related information](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/tx/2022-02-28/756316.shtml))
 
 **Services**
 
