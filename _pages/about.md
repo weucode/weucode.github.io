@@ -37,13 +37,13 @@ Research on JS engine automated testing based on highly guided test case generat
 
 ## Services
 
-+ Subreviewer for [MSN2024](https://ieee-msn.org/2024/index.php).
+Subreviewer for [MSN2024](https://ieee-msn.org/2024/index.php).
 
 ## Biography
 
-+ September 2021 - up to now, Successive postgraduate and doctoral programs of study, Northwest University.
+September 2021 - up to now, Successive postgraduate and doctoral programs of study, Northwest University.
 
-+ September 2017 - June 2021, Undergraduate, Northwest University.
+September 2017 - June 2021, Undergraduate, Northwest University.
 
 ## Bug List
 
