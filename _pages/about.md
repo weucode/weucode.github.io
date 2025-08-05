@@ -37,7 +37,7 @@ Research on JS engine automated testing based on highly guided test case generat
 
 ## Services
 
-Artifact Evaluator for [PACT2025](https://pact25ae.hotcrp.com/u/0/users/pc)
+Artifact Evaluator for [PACT2025](https://pact25ae.hotcrp.com/u/0/users/pc).
 
 Subreviewer for [MSN2024](https://ieee-msn.org/2024/index.php).
 
